@@ -19,17 +19,19 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "activationHooks": [
-    "memefy:ccfy",
-    "memefy:spaceout",
-    "memefy:escalate",
-    "memefy:exaggerate",
-    "memefy:leet",
-    "memefy:hashtag",
-    "memefy:alternating",
-    "memefy:alternating2",
-    "memefy:stoz"
-  ],
+  "activationCommands": {
+    "atom-workspace": [
+      "memefy:ccfy",
+      "memefy:spaceout",
+      "memefy:escalate",
+      "memefy:exaggerate",
+      "memefy:leet",
+      "memefy:hashtag",
+      "memefy:alternating",
+      "memefy:alternating2",
+      "memefy:stoz"
+    ]
+  },
   "dependencies": {
     "memefy": "^1.1.2"
   }
