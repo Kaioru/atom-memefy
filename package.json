@@ -1,6 +1,6 @@
 {
   "name": "atom-memefy",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "the highly anticipated memefy plugin for atom.",
   "main": "lib/index.js",
   "scripts": {
