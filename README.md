@@ -1,7 +1,7 @@
 # atom-memefy
 you could memefy memes through the web, the cli, the js library. 
 
-but aren't satisfied (i know it). 
+but it's never enough. (i know it). 
 
 lo' and behold, memefy on your favourite editor, atom.
 
