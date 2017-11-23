@@ -1,0 +1,25 @@
+{
+  "name": "atom-memefy",
+  "version": "0.0.0",
+  "description": "the highly anticipated memefy plugin for atom.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kaioru/atom-memefy.git"
+  },
+  "author": "Kaioru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kaioru/atom-memefy/issues"
+  },
+  "homepage": "https://github.com/Kaioru/atom-memefy#readme",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "memefy": "^1.1.2"
+  }
+}
