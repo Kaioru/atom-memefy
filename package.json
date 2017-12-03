@@ -23,6 +23,7 @@
     "atom-workspace": [
       "memefy:ccfy",
       "memefy:spaceout",
+      "memefy:spacierout",
       "memefy:escalate",
       "memefy:exaggerate",
       "memefy:leet",
@@ -33,6 +34,6 @@
     ]
   },
   "dependencies": {
-    "memefy": "^1.1.2"
+    "memefy": "^1.2.0"
   }
 }
